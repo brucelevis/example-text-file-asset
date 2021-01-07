@@ -12,9 +12,9 @@ All parts of the walkthrough will cover the following topics:
 
 The code has been tagged depending on the part of the walkthrough.
 
-- [Part 1](#)
-- [Part 2](#)
-- [Part 3](#)
+- [Part 1](https://github.com/simon-ourmachinery/example-text-file-asset/tree/part1)
+- [Part 2](https://github.com/simon-ourmachinery/example-text-file-asset/tree/part2)
+- [Part 3](https://github.com/simon-ourmachinery/example-text-file-asset/tree/part3)
 
 ## How to build
 
